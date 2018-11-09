@@ -13,7 +13,7 @@ The TType column gives the visual classification as follows:
 4 --> Sbc
 5 --> Sc
 7 --> Sd
-> 8 --> Im etc..
+8 --> Im etc..
 
 - For the "shallow" approach we will use measurements from the [catalog provided](https://github.com/mhuertascompany/deeplearning4astronomy/blob/master/morphology/Nair_Abraham_cat.fit). It includes for every galaxy, strucutural parameters (sizes etc..), colors , SFRs and other indicators.
 
