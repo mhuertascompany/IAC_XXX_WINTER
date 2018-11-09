@@ -19,7 +19,7 @@ The TType column gives the visual classification as follows:
 
 - For the "deep" approach, the input will be the jpeg images. The jpeg images can be donwnloaded [here](https://drive.google.com/drive/folders/1ufj6ATroZ3emBbSQfQhcL_6W87EPgTaS?usp=sharing). The name is  matched to the ID in the catalog. Donwloand the folder with the images and put it in the same folder where the jupyter notebooks are
 
-- A [jupyter notebook] (morph_classical_ML.ipynb) for the shallow approach is provided. I used RFs and ANNs.
+- A [jupyter notebook](morph_classical_ML.ipynb) for the shallow approach is provided. I used RFs and ANNs.
 
 - A jupyter notebook for the deep approach.
 
