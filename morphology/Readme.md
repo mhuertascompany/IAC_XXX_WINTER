@@ -23,7 +23,7 @@ The TType column gives the visual classification as follows:
 7 --> Sd
 8 --> Im etc..
 
-- For the "shallow" approach we will use measurements from the [catalog provided](https://github.com/mhuertascompany/deeplearning4astronomy/blob/master/morphology/Nair_Abraham_cat.fit). It includes for every galaxy, strucutural parameters (sizes etc..), colors , SFRs and other indicators.
+- For the "shallow" approach we will use measurements from the [catalog provided](Nair_Abraham_cat.fit). It includes for every galaxy, strucutural parameters (sizes etc..), colors , SFRs and other indicators.
 
 - For the "deep" approach, the input will be the jpeg images. The jpeg images can be donwnloaded [here](https://drive.google.com/drive/folders/1ufj6ATroZ3emBbSQfQhcL_6W87EPgTaS?usp=sharing). The name is  matched to the ID in the catalog. Donwloand the folder with the images and put it in the same folder where the jupyter notebooks are
 
