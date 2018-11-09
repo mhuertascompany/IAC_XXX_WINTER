@@ -1,6 +1,14 @@
 # Morphology of SDSS galaxies
 
-The goal of this exercice is to test on the same problem a "classical" machine learning and a deep learning approach (CNNs) to separate SDSS galaxies between ellitpicals (early-type) and spirals (late-type). 
+The goal of this exercices is to test on the same problem, 1- a "classical" machine learning approach and a 2 - a deep learning approach (CNNs) to separate SDSS galaxies between ellitpicals (early-type) and spirals (late-type). You can also try more detailed morphologies to see the difference.
+
+## Set up of environment
+- Go [here](https://github.com/ramp-kits/astrophd_tutorial) and follow steps 1 and 2
+- Activate virtual environment by typing in the command line: source activate astrophd_tutorial
+- You might need to install Pillow the first time you activate the environment: conda install -c intel pillow
+- Start a jupyter notebook: jupyter notebook&
+
+## Data provided
 - The training set is made of the detailed visual classifications of [Nair&Abraham2010](http://adsabs.harvard.edu/abs/2010ApJS..186..427N) of ~14.000 SDSS galaxies. 
 
 The TType column gives the visual classification as follows:
