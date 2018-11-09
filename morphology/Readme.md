@@ -29,5 +29,5 @@ The TType column gives the visual classification as follows:
 
 - A [jupyter notebook](morph_classical_ML.ipynb) for the shallow approach is provided. I used RFs and ANNs.
 
-- A jupyter notebook for the deep approach.
+- A [jupyter notebook](Nair_Sab_deep.ipynb) for the deep approach.
 
