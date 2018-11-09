@@ -27,7 +27,7 @@ The TType column gives the visual classification as follows:
 
 - For the "shallow" approach we will use measurements from the [catalog provided](Nair_Abraham_cat.fit). It includes for every galaxy, strucutural parameters (sizes etc..), colors , SFRs and other indicators. 
 
-- For the "deep" approach, the input will be the jpeg images. The jpeg images can be donwnloaded [here](https://drive.google.com/drive/folders/1ufj6ATroZ3emBbSQfQhcL_6W87EPgTaS?usp=sharing). The name is  matched to the ID in the catalog. Donwloand the tarball, untar and save in folder IAC_XXX_WINTER
+- For the "deep" approach, the input will be the jpeg images. The jpeg images can be donwnloaded [here](https://drive.google.com/drive/folders/1ufj6ATroZ3emBbSQfQhcL_6W87EPgTaS?usp=sharing). The name is  matched to the ID in the catalog. Donwloand the tarball, save in folder IAC_XXX_WINTER/morphology and untar
 
 - A [jupyter notebook](morph_classical_ML.ipynb) for the shallow approach is provided. I used RFs and ANNs.
 
